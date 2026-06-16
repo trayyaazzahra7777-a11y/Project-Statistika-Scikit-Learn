@@ -2,7 +2,16 @@
 
 Repositori ini berisi dokumentasi dan kode sumber untuk analisis faktor-faktor yang memengaruhi jumlah penjualan produk di Tokopedia menggunakan metode *Multiple Linear Regression*.
 
-**Peneliti:** [Nama Kamu] | **NIM:** [NIM Kamu] | **Program Studi:** [Prodi Kamu] | [Universitas Kamu]
+---
+
+## 👨‍💻 Informasi Peneliti
+
+| | |
+| :--- | :--- |
+| **Nama** | [Trayya Azzahra Baso] |
+| **Nomor Induk Mahasiswa (NIM)** | [F5512520100] |
+| **Program Studi** | [Teknik Informatika] |
+| **Kelas** | [C] |
 
 ---
 
@@ -35,14 +44,17 @@ Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan eval
 * 📁 **Dataset/**
   * 📄 `products.csv` — *(Data mentah)*
 * 📁 **Notebook/**
-  * 📓 `analisis_regresi.ipynb` — *(Eksplorasi Data (EDA) & Visualisasi)*
+  * 📓 `analisis_regresi.ipynb` — *(Eksplorasi Data & Visualisasi)*
 * 📁 **src/**
   * 🐍 `analisis_regresi.py` — *(Script utama Python)*
-* 📄 `requirements.txt` — *(Daftar library yang dibutuhkan)*
+* 📄 `.gitignore` — *(Konfigurasi Git untuk mengabaikan file tertentu)*
+* 📄 `README.md` — *(Dokumentasi proyek ini)*
+* 📄 `requirements.txt` — *(Daftar library Python yang dibutuhkan)*
 
 ## Panduan Penggunaan
 
-**1. Akses & Clone Repositori** 🔗 **[Klik di sini untuk melihat Repositori GitHub](https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn)**
+**1. Akses & Clone Repositori**  
+🔗 **[Klik di sini untuk melihat Repositori GitHub](https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn)**
 
 Atau, salin proyek ke komputer lokal menggunakan perintah terminal berikut:
 ```bash
