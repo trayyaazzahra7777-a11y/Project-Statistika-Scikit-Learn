@@ -4,14 +4,14 @@ Repositori ini berisi dokumentasi dan kode sumber untuk analisis faktor-faktor y
 
 ---
 
-## 👨‍💻 Informasi Peneliti
+## Identitas
 
 | | |
 | :--- | :--- |
-| **Nama** | [Trayya Azzahra Baso] |
-| **Nomor Induk Mahasiswa (NIM)** | [F5512520100] |
-| **Program Studi** | [Teknik Informatika] |
-| **Kelas** | [C] |
+| **Nama** | Trayya Azzahra Baso |
+| **NIM** | F5512520100 |
+| **Program Studi** | Teknik Informatika |
+| **Kelas** | C |
 
 ---
 
