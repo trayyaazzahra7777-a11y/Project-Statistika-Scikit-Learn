@@ -17,12 +17,14 @@ Fenomena *imbalanced data* pada sistem rating e-commerce di Indonesia membuat va
 
 ---
 
-## Informasi Dataset
-Data yang digunakan adalah data sekunder berupa sampel produk riil dari Tokopedia.
+## 📊 Informasi Dataset
+Data yang digunakan adalah data sekunder berupa sampel produk riil dari platform e-commerce. 
+
+* **Sumber Referensi & Lisensi Data:**
+  > Fiki Pratama. (2025). *Tokopedia Products Dataset (2025)* [Data set]. Kaggle. https://doi.org/10.34740/kaggle/ds/9118061
 
 | Atribut | Keterangan |
 | :--- | :--- |
-| **Sumber Data** | Repositori Publik Kaggle (Tahun 2025) |
 | **Jumlah Sampel** | 1.200 baris data produk |
 | **Variabel Dependen (Y)** | `sold_count` (Total Penjualan) |
 | **Variabel Independen (X)**| `price`, `discount_percent`, `review_count`, `rating` |
