@@ -1,8 +1,8 @@
-## 👨‍💻 Identitas Peneliti
-* **Nama** : [Masukkan Nama Lengkap Kamu]
-* **NIM** : [Masukkan NIM Kamu]
-* **Program Studi** : [Masukkan Program Studi Kamu]
-* **Universitas** : [Masukkan Nama Universitas Kamu]
+## Identitas
+* **Nama** : [Trayya Azzahra Baso]
+* **NIM** : [F5512520100]
+* **Program Studi** : [Teknik Informatika]
+* **Kelas** : [C]
 
 ---
 
