@@ -2,7 +2,7 @@
 
 Repositori ini berisi dokumentasi dan kode sumber untuk analisis faktor-faktor yang memengaruhi jumlah penjualan produk di Tokopedia menggunakan metode *Multiple Linear Regression*.
 
-**Nama:** Trayya Azzahra Baso | **NIM:** F5512520100 | **Program Studi:** Teknik Informatikaa | **Kelas:** C
+**Peneliti:** [Nama Kamu] | **NIM:** [NIM Kamu] | **Program Studi:** [Prodi Kamu] | [Universitas Kamu]
 
 ---
 
@@ -12,7 +12,9 @@ Dalam ekosistem *e-commerce*, rating produk sering kali memiliki distribusi yang
 ## Sumber Data
 Data yang digunakan adalah data sekunder berupa sampel produk dari platform Tokopedia.
 
-> Fiki Pratama. (2025). *Tokopedia Products Dataset (2025)* [Data set]. Kaggle. https://doi.org/10.34740/kaggle/ds/9118061
+> **Referensi Dataset:**
+> Fiki Pratama. (2025). *Tokopedia Products Dataset (2025)* [Data set]. Kaggle.  
+> 🔗 **[https://doi.org/10.34740/kaggle/ds/9118061](https://doi.org/10.34740/kaggle/ds/9118061)**
 
 | Atribut | Keterangan |
 | :--- | :--- |
@@ -24,7 +26,7 @@ Data yang digunakan adalah data sekunder berupa sampel produk dari platform Toko
 Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan evaluasi sebagai berikut:
 
 * **Nilai R-Squared ($R^2$): 0.9396**
-  Hal ini mengindikasikan bahwa sekitar 93.96% variasi jumlah penjualan produk dapat dijelaskan oleh keempat variabel fitur yang digunakan.
+  Hal ini mengindikasikan bahwa sekitar **93.96%** variasi jumlah penjualan produk dapat dijelaskan oleh keempat variabel fitur yang digunakan.
 * **Variabel Paling Signifikan:**
   Berdasarkan ekstraksi koefisien model, **Jumlah Ulasan (`review_count`)** merupakan prediktor yang memberikan dampak positif paling besar terhadap jumlah barang yang terjual.
 
@@ -38,21 +40,3 @@ Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan eval
 ├── src/
 │   └── analisis_regresi.py          # Script utama Python
 └── requirements.txt                 # Daftar dependencies
-
----
-
-## Cara Menjalankan Proyek Secara Lokal
-
-1. **Clone Repositori Ini**
-    ```bash
-    git clone https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn
-
-2. **Install Dependencies**
-Pastikan Python sudah terinstal, lalu jalankan perintah ini di terminal:
-    ```bash
-    pip install -r requirements.txt
-
-3. **Eksekusi Program**
-    Untuk melihat proses interaktif dan grafik: Buka folder Notebook dan jalankan analisis_regresi.ipynb.
-
-    Untuk menjalankan script secara otomatis: Buka terminal dan jalankan python src/analisis_regresi.py.
