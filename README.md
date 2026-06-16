@@ -57,12 +57,12 @@ Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan eval
 🔗 **[Klik di sini untuk melihat Repositori GitHub](https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn)**
 
 Atau, salin proyek ke komputer lokal menggunakan perintah terminal berikut:
-    ```bash
+```bash
 git clone https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn
 
 
 **2. Install library pendukung**
-    ```bash
+```bash
 pip install -r requirements.txt
 
 **3. Eksekusi program**
