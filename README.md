@@ -31,12 +31,19 @@ Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan eval
   Berdasarkan ekstraksi koefisien model, **Jumlah Ulasan (`review_count`)** merupakan prediktor yang memberikan dampak positif paling besar terhadap jumlah barang yang terjual.
 
 ## Struktur Direktori
-```text
-.
-├── Dataset/
-│   └── products.csv                 # Data mentah
-├── Notebook/
-│   └── analisis_regresi.ipynb       # Eksplorasi Data (EDA) & Visualisasi
-├── src/
-│   └── analisis_regresi.py          # Script utama Python
-└── requirements.txt                 # Daftar dependencies
+
+* 📁 **Dataset/**
+  * 📄 `products.csv` — *(Data mentah)*
+* 📁 **Notebook/**
+  * 📓 `analisis_regresi.ipynb` — *(Eksplorasi Data (EDA) & Visualisasi)*
+* 📁 **src/**
+  * 🐍 `analisis_regresi.py` — *(Script utama Python)*
+* 📄 `requirements.txt` — *(Daftar library yang dibutuhkan)*
+
+## Panduan Penggunaan
+
+**1. Akses & Clone Repositori** 🔗 **[Klik di sini untuk melihat Repositori GitHub](https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn)**
+
+Atau, salin proyek ke komputer lokal menggunakan perintah terminal berikut:
+```bash
+git clone https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn
