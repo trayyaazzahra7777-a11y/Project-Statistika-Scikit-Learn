@@ -57,13 +57,10 @@ Model regresi yang dibangun menggunakan pustaka `scikit-learn` menghasilkan eval
 🔗 **[Klik di sini untuk melihat Repositori GitHub](https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn)**
 
 Atau, salin proyek ke komputer lokal menggunakan perintah terminal berikut:
-```bash
-git clone https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn
-
+    ```bashgit clone https://github.com/trayyaazzahra7777-a11y/Project-Statistika-Scikit-Learn
 
 **2. Install library pendukung**
-```bash
-pip install -r requirements.txt
+```bashpip install -r requirements.txt
 
 **3. Eksekusi program**
   Untuk melihat alur analisis beserta grafik interaktif, jalankan file analisis_regresi.ipynb di Jupyter/VS Code.
